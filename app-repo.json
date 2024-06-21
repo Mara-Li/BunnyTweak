@@ -14,6 +14,12 @@
       "versions": [
         {
           "version": "234.0",
+          "date": "2024-06-21",
+          "size": 111829501,
+          "downloadURL": "https://github.com/Mara-Li/BunnyTweak/releases/download/v234.0/Bunny.ipa"
+        },
+        {
+          "version": "234.0",
           "date": "2024-06-19",
           "size": 111834840,
           "downloadURL": "https://github.com/Mara-Li/BunnyTweak/releases/download/v234.0/Bunny.ipa"
